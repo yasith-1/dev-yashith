@@ -44,7 +44,7 @@ export default function Navigation() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-              <span className="text-teal-500">Y</span>ASHITH
+              <span className="text-teal-500">YASHITH</span>
             </h1>
           </div>
 
